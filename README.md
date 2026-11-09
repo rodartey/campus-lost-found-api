@@ -1,6 +1,9 @@
 # Campus Lost & Found API
+Losing a phone, ID card or textbook on campus is stressful, and notices on boards are easy to miss. This API lets students report lost and found items, claim items that belong to them, and comment on reports, so items can find their way back to their owners.
 
-A backend API where students report lost and found items on campus, claim items, and comment on them. Built with Django and Django REST Framework.
+**Tech stack:** Python, Django, Django REST Framework, SQLite
+
+
 
 ## Features
 
